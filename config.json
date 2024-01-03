@@ -1,0 +1,15 @@
+{
+    "prefix": "",
+    "token":"" ,
+    "clientID": "",
+    "guildID": "",
+    "youtubeCookie": "",
+    "true":"<a:music:1182063091312230470>",
+    "music":"<a:music:1182063091312230470>",
+    "owner":["520721762535866379" , ""],
+    "spotify_api": {
+        "enabled": false,
+        "clientId": "2d2becbcf53a4d778770758c6f9d4a67",
+        "clientSecret": "X5QMNuF9q6CnZd3m1_aLshMoXU-d_owI"
+    }
+}
